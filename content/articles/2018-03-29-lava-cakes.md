@@ -1,0 +1,32 @@
+Title: Lava Cakes
+date: 2018-03-29
+updated: 2018-03-29
+comments: false
+slug: lava-cakes
+tags: chocolate
+prepTime: ? min
+cookTime: ? min
+image: lava-cakes.jpg
+category: Desserts
+<!-- status: draft -->
+
+
+# Ingredients
+- Baking spray, for spraying custard cups
+- 1 stick butter 
+- 2 ounces bittersweet chocolate 
+- 2 ounces semisweet chocolate 
+- 1 1/4 cups powdered sugar 
+- 2 whole eggs 
+- 3 egg yolks 
+- 1 teaspoon vanilla 
+- 1/2 cup all-purpose flour 
+- Vanilla ice cream, for serving
+
+
+# Instructions
+Preheat the oven to 425 degrees F. Spray four custard cups with baking spray and place on a baking sheet.
+
+Microwave the butter, bittersweet chocolate and semisweet chocolate in a large bowl on high until the butter is melted, about 1 minute. Whisk until the chocolate is also melted. Stir in the sugar until well blended. Whisk in the eggs and egg yolks, then add the vanilla. Stir in the flour. Divide the mixture among the custard cups.
+
+Bake until the sides are firm and the centers are soft, about 13 minutes. Let stand 1 minute. Invert on individual plates while warm and serve with vanilla ice cream.
