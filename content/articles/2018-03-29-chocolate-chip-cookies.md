@@ -8,7 +8,6 @@ prepTime: ? min
 cookTime: ? min
 image: chocolate-chip-cookies.jpg
 category: Desserts
-<!-- status: draft -->
 
 # Notes
 Source:  BH&G 1989

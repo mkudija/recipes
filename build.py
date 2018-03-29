@@ -131,7 +131,7 @@ def convert_md_to_html(article, pathOutput):
     with open('theme/article.html') as f:
         templateArticle = [x.strip('\n,') for x in f]
            
-    templateArticle = [x.strip() for x in templateArticle]    
+    templateArticle = [x.strip() for x in templateArticle] 
 
     for line in range(len(templateArticle)):
         templateArticle[line] = templateArticle[line].replace('#TITLE#', metadata['title'])
@@ -141,6 +141,8 @@ def convert_md_to_html(article, pathOutput):
     with open(article) as f:
         md = [x.strip('') for x in f]
     
+
+    md = md[md.index('\n'):] # drop metadata from article text
     mdString = ''.join(md)
     body = markdown2.markdown(mdString, extras=['footnotes','smarty-pants','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline'])
     body = [body]

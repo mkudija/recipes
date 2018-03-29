@@ -8,7 +8,6 @@ prepTime: ? min
 cookTime: ? min
 image: turkey-burger.jpg
 category: Main Dishes
-<!-- status: draft -->
 
 # Ingredients
 - ½  medium onion

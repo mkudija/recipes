@@ -8,8 +8,6 @@ prepTime: ? min
 cookTime: ? min
 image: lava-cakes.jpg
 category: Desserts
-<!-- status: draft -->
-
 
 # Ingredients
 - Baking spray, for spraying custard cups
