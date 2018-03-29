@@ -137,6 +137,7 @@ def convert_md_to_html(article, pathOutput):
         templateArticle[line] = templateArticle[line].replace('#TITLE#', metadata['title'])
         templateArticle[line] = templateArticle[line].replace('#COOKTIME#', metadata['cookTime'])
         templateArticle[line] = templateArticle[line].replace('#PREPTIME', metadata['prepTime'])
+        templateArticle[line] = templateArticle[line].replace('#IMAGE#', metadata['image'])
             
     with open(article) as f:
         md = [x.strip('') for x in f]
