@@ -9,12 +9,12 @@ cookTime: ? min
 image: chocolate-chip-cookies.jpg
 category: Desserts
 
-# Notes
+## Notes
 Source:  BH&G 1989
 Yield: about 120 small cookies or 40 giant cookies
 Temp: 375 degrees
 
-# Ingredients
+## Ingredients
 - 1 cup shortening
 - 1 cup margarine or butter
 - 2-1/2 cups all-purpose flour
@@ -28,7 +28,7 @@ Temp: 375 degrees
 - 2 cups chopped walnuts, pecans, or hazelnuts (optional)
 
 
-# Instructions
+## Instructions
 In a mixing bowl, beat the shortening and margarine or butter with an electric mixer on medium to high speed for 30 seconds.  Add about half of the flours, the brown sugar, sugar, eggs, vanilla, and baking soda.  Beat mixture until thoroughly combined.  Beat in the remaining flour by hand.  Stir in chocolate chips and, if desired, nuts.
 
 Drop dough by rounded teaspoons two inches apart onto an ungreased cookie sheet.  Bake in a 375 degree oven for 8 to 10 minutes or until edges are lightly browned.  Remove from baking sheet and cool on foil.  
