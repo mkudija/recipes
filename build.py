@@ -156,7 +156,8 @@ def convert_md_to_html(article, pathOutput):
         for lines in templateArticle:
             myfile.write(''.join(lines))
             myfile.write('\n')
-    print('\tSaved {}'.format(pathOutput))
+    # print('\tSaved {}'.format(pathOutput))
+
 
 
 
@@ -216,10 +217,16 @@ if __name__ == "__main__":
     articles = list(pathArticles.glob('*.md'))
 
     # output articles
-    print('Converting articles...')
+    # from time import sleep
+    i=1
+    print('Converting articles to HTML...')
     for article in articles:
         convert_md_to_html(article, pathOutput)
-
+        print('\t{} articles converted successfully.  '.format(i), end='\r')
+        i+=1
+        # sleep(0.05)
+    print('\t{} articles converted successfully.  \n'.format(i), end='\r')
+    
     # output index
     print('Building index.html...')
     construct_index(articles, categories, pathOutput)
